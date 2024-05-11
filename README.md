@@ -59,11 +59,11 @@ This page is accessible to logged users and includes a default empty profile pic
  
 **2.2.6. Edit Profile Info Page** 
 
- 	Accessible from the My Profile page, upon clicking on EDIT PROFILE button this page allows users to edit their profile information, including Profile picture (picture is not uploaded, but must be a valid URL of a picture), First name (max 60 characters length), Last name (max. 60 characters length), City (max. 120 characters length), and a Describe yourself section (max. 256 characters length). 
+Accessible from the My Profile page, upon clicking on EDIT PROFILE button this page allows users to edit their profile information, including Profile picture (picture is not uploaded, but must be a valid URL of a picture), First name (max 60 characters length), Last name (max. 60 characters length), City (max. 120 characters length), and a Describe yourself section (max. 256 characters length). 
 
 **2.2.7. My Ideas Page** 
 
- 	This page is accessible from the Navbar and contains a Search ideas field and a Search button. If no ideas have been created yet, a No ideas yet! message is displayed. 
+This page is accessible from the Navbar and contains a Search ideas field and a Search button. If no ideas have been created yet, a No ideas yet! message is displayed. 
 Users can enter keywords and click the Search button to initiate the search. The search functionality then filters the list of ideas based on the provided search terms. 
 
 Upon Creating an idea, it appears on the My Ideas page where the user can VIEW, EDIT, or DELETE it. 
@@ -71,7 +71,7 @@ Upon Creating an idea, it appears on the My Ideas page where the user can VIEW, 
  
 **2.2.8. Create Idea Page** 
 
- 	This page can be accessed from the Navbar and contains fields for creating a new idea, including a Title (3-
+This page can be accessed from the Navbar and contains fields for creating a new idea, including a Title (3-
 70 characters length), Add picture field (picture is not uploaded, but must be a valid URL of a picture), and a Describe your idea field (3-400 characters length). Title and Description are mandatory. After entering these details, the user can click on the CREATE button to save the idea. 
 
 **2.2.9. Idea Management** 
@@ -79,15 +79,18 @@ Upon Creating an idea, it appears on the My Ideas page where the user can VIEW, 
 Managing Ideas is available for all created ideas from My Ideas Page. Each Idea has three options – VIEW, EDIT, and DELETE. 
 
 **a.View**
+
 Available after clicking on VIEW button.  
 
 **b. Edit**
+
 Available after clicking on EDIT button.  
  
 **c. Delete** 
+
 After clicking on DELETE button, the Idea is deleted and it disappers from My Ideas Page. 
  
-**Functional Requirements**
+****Functional Requirements****
 
 **1. Use Case 1 (Home Page)**
 
