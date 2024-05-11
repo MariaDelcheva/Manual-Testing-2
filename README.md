@@ -128,5 +128,6 @@ Each Use case should have at least 2 Test Cases. You should write at least 15 te
 You should find and describe at least 5 bugs. 
 
 **3.	Template** 
+
 Use the provided Test-Management-and-Bug-Tracking-Template.xlsx to document your work. 
 
